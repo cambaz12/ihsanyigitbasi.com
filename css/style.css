@@ -1,0 +1,101 @@
+﻿body {
+	margin: 0px;
+	padding: 0px;
+	background-color: #d3d3d3;
+}
+#main {
+	margin: 200px auto;
+	width: 400px;
+}
+.socail-icon {
+	width: 49px;
+	height: 48px;
+	float: left;
+	display: block;
+	text-indent: -9999px;
+	background-image: url('../images/social-icon.png');
+	margin: 10px 5px 5px 5px;
+	opacity: 0.6;
+}
+.socail-icon:hover {
+	-webkit-transition: opacity 1s ease-in-out;
+	-moz-transition: opacity 0.2s ease-in-out;
+	-o-transition: opacity 1s ease-in-out;
+	-ms-transition: opacity 1s ease-in-out;
+	transition: opacity 1s ease-in-out;
+	opacity: 1;
+}
+.socail-icon a {
+	width: 48px;
+	height: 48px;
+	display: block;
+}
+.digg {
+	background-position: 0px -48px;
+}
+.twitter {
+	background-position: 0px -96px;
+}
+.skype {
+	background-position: 0px -144px;
+}
+.msn {
+	background-position: 0px -192px;
+}
+.blogger {
+	background-position: 0px -240px;
+}
+.wordpress {
+	background-position: 0px -288px;
+}
+.mixx {
+	background-position: 0px -336px;
+}
+.friendfeed {
+	background-position: 0px -384px;
+}
+.xing {
+	background-position: 0px -432px;
+}
+.newsvine {
+	background-position: 0px -480px;
+}
+.vimeo {
+	background-position: 0px -528px;
+}
+.flickr {
+	background-position: 0px -576px;
+}
+.microsoft {
+	background-position: 0px -624px;
+}
+.deviantart {
+	background-position: 0px -672px;
+}
+.rss {
+	background-position: 0px -720px;
+}
+.googleplus {
+	background-position: 0px -768px;
+}
+.in {
+	background-position: 0px -816px;
+}
+.reddit {
+	background-position: 0px -864px;
+}
+.youtube {
+	background-position: 0px -912px;
+}
+.friendster {
+	background-position: 0px -960px;
+}
+.facebook {
+	background-position: 0px -1008px;
+}
+.yahoo {
+	background-position: 0px -1056px;
+}
+.email {
+	background-position: 0px -1104px;
+}
